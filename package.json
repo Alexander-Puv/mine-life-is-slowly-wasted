@@ -1,0 +1,20 @@
+{
+  "name": "mine-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.5.1",
+    "mineflayer-autoclicker": "^1.2.0",
+    "prismarine-viewer": "^1.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
